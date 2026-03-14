@@ -15,9 +15,9 @@
 | movie_id | serial | unique identifier of user | primary key,Not Null|
 | category | integer |category of movie | forange key ,Not Null |
 | title  | vachar(255) |title of movie | Not Null |
-| duration | integer(255) |duration of movie | Not Null ]
-| dub_language | varcha(255) |dub_language of movie | Not Null ]
-| sub_language | vacha(255) |subtitle of movie | Not Null ]
+| duration | integer(255) |duration of movie | Not Null |
+| dub_language | varcha(255) |dub_language of movie | Not Null |
+| sub_language | vacha(255) |subtitle of movie | Not Null |
 
 
 # Customer
