@@ -1,4 +1,4 @@
-*##Category_id*
+##Category_id
 | Attributen | Date Type | Desciption | Constraints |
 |---|---|---|---|
 |catory_id | serial | unique identifier of user | primary key|
